@@ -34,7 +34,7 @@ Le spider spider_corrigé.py parcourt les pages de recherche et collecte les don
 Lancer le Spider :
 Exécutez cette commande à la racine de votre projet. Les fichiers JSON seront sauvegardés dans le dossier scrapped/.
 
-scrapy runspider spider_corrigé.py
+` scrapy runspider spider_corrigé.py `
 
 
 Note: Le spider est configuré pour collecter un maximum de 100 pages par défaut (MAX_PAGES). Vous pouvez ajuster cette valeur dans le fichier spider_corrigé.py si nécessaire.
@@ -44,9 +44,8 @@ Note: Le spider est configuré pour collecter un maximum de 100 pages par défau
 Une fois les données brutes collectées en JSON, le script de traitement nettoie les valeurs, calcule des variables importantes (comme l'âge en années) et consolide tout en un fichier dataset.csv prêt pour l'entraînement.
 
 Exécuter le script ETL :
-Ce script est basé sur la logique vue dans votre fichier JsonToCsv.py.
 
-python3 JsonToCsv.py
+` python3 JsonToCsv.py `
 # Ceci va lire les fichiers dans 'scrapped/' et générer 'dataset.csv'
 
 
