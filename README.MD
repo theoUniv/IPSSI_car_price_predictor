@@ -1,6 +1,4 @@
-🚗 Car Price Predictor
-
-Description du Projet
+# 🚗 **Car Price Predictor** 🚗
 
 Ce projet a pour but de créer un pipeline complet pour la prédiction du prix des voitures d'occasion. Il se compose de trois étapes principales :
 
