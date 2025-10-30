@@ -1,0 +1,16 @@
+{
+    "energie": "essence",
+    "boite_de_vitesses": "manuelle",
+    "couleur": "rouge",
+    "type_vehicule": "berline",
+    "provenance": "particulier",
+    "premiere_main": "non",
+    "kilometrage": 150000.0,
+    "puissance_fiscale": 5.0,
+    "puissance_reelle": 90.0,
+    "portes": 5,
+    "places": 5,
+    "age_ans": 10,
+    "marque": "renault",
+    "modele": "clio"
+}
