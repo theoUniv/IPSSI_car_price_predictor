@@ -12,22 +12,22 @@ Prérequis
 
 Assurez-vous d'avoir Python 3.8+ et les outils suivants installés.
 
-Installation des dépendances Python
+- Installation des dépendances Python
 
 Ce projet nécessite plusieurs bibliothèques, notamment pour le scraping (Scrapy, Playwright) et le Machine Learning (Pandas, Scikit-learn, XGBoost).
 
 pour les installer : 
 ` pip install scrapy scrapy-playwright pandas scikit-learn xgboost `
 
-# Installez les navigateurs nécessaires pour Playwright
+Installez les navigateurs nécessaires pour Playwright
 ` playwright install `
 
 
-🛠️ Utilisation
+## 🛠️ Utilisation
 
 Le pipeline complet se déroule en trois étapes :
 
-Étape 1 : Collecte des Données (Scraping)
+### Étape 1 : Collecte des Données (Scraping)
 
 Le spider spider_corrigé.py parcourt les pages de recherche et collecte les données de chaque fiche véhicule en utilisant Playwright pour gérer les chargements JavaScript.
 
@@ -36,20 +36,18 @@ Exécutez cette commande à la racine de votre projet. Les fichiers JSON seront 
 
 ` scrapy runspider spider_corrigé.py `
 
-
 Note: Le spider est configuré pour collecter un maximum de 100 pages par défaut (MAX_PAGES). Vous pouvez ajuster cette valeur dans le fichier spider_corrigé.py si nécessaire.
 
-Étape 2 : Préparation du Dataset (JSON vers CSV)
+### Étape 2 : Préparation du Dataset (JSON vers CSV)
 
 Une fois les données brutes collectées en JSON, le script de traitement nettoie les valeurs, calcule des variables importantes (comme l'âge en années) et consolide tout en un fichier dataset.csv prêt pour l'entraînement.
 
 Exécuter le script ETL :
 
 ` python3 JsonToCsv.py `
-# Ceci va lire les fichiers dans 'scrapped/' et générer 'dataset.csv'
+Ceci va lire les fichiers dans 'scrapped/' et générer 'dataset.csv'
 
-
-Étape 3 : Entraînement du Modèle et Prédiction
+### Étape 3 : Entraînement du Modèle et Prédiction
 
 Le script d'entraînement utilise le dataset.csv pour former le modèle XGBoost, évalue sa performance (RMSE), et effectue une prédiction sur un exemple de configuration de voiture.
 
@@ -79,8 +77,8 @@ Exemple de to_predict/car_config.json:
 Lancer l'entraînement et la prédiction :
 Ce script est basé sur la logique vue dans votre fichier train_model.py.
 
-python3 train_model.py
-# Le script affichera le RMSE et le prix prédit pour la voiture dans car_config.json.
+` python3 train_model.py `
+Le script affichera le RMSE et le prix prédit pour la voiture dans car_config.json.
 
 
 Structure du Projet
