@@ -16,9 +16,11 @@ Installation des dépendances Python
 
 Ce projet nécessite plusieurs bibliothèques, notamment pour le scraping (Scrapy, Playwright) et le Machine Learning (Pandas, Scikit-learn, XGBoost).
 
-pip install scrapy scrapy-playwright pandas scikit-learn xgboost
-# Installez les navigateurs nécessaires pour Playwright (important !)
-playwright install
+pour les installer : 
+'pip install scrapy scrapy-playwright pandas scikit-learn xgboost'
+
+# Installez les navigateurs nécessaires pour Playwright
+'playwright install'
 
 
 🛠️ Utilisation
