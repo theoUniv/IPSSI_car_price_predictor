@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 
 json_dir = "scrapped/"
-outputCsv = "dataset.csv"
+outputCsv = "database/dataset.csv"
 
 # --- 1. SÉLECTION ET NETTOYAGE DES CHAMPS ---
 def clean_and_normalize_data(json_file_path):
@@ -109,8 +109,10 @@ def clean_and_normalize_data(json_file_path):
     df['places'] = df['places'].apply(clean_numeric_string).fillna(5).astype(int) # 5 est une valeur par défaut raisonnable si manquant
     df['puissance_fiscale'] = df['puissance_fiscale'].apply(clean_numeric_string)
     
-    # Nettoyage des champs de taille (souvent moins critiques)
+# Nettoyage des champs de taille (souvent moins critiques)
     df['longueur'] = df['longueur'].apply(clean_numeric_string)
+    df['largeur'] = df['largeur'].apply(clean_numeric_string)    # <-- LIGNE AJOUTÉE
+    df['hauteur'] = df['hauteur'].apply(clean_numeric_string)     # <-- LIGNE AJOUTÉE
     df['poids'] = df['poids'].apply(clean_numeric_string)
     df['volume_coffre'] = df['volume_coffre'].apply(clean_numeric_string)
 

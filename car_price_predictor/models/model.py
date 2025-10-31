@@ -10,7 +10,7 @@ import json
 
 # Lecture de notre dataset
 try:
-    df = pd.read_csv('dataset.csv')
+    df = pd.read_csv('database/dataset.csv')
 except FileNotFoundError:
     print("❌ Erreur: Le fichier 'dataset.csv' est introuvable. Assurez-vous d'exécuter JsonToCsv.py d'abord.")
     exit()

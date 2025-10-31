@@ -1,0 +1,369 @@
+prix_ttc_eur,energie,boite_de_vitesses,couleur,type_vehicule,provenance,premiere_main,kilometrage,puissance_fiscale,puissance_reelle,portes,places,longueur,largeur,hauteur,poids,volume_coffre,air_quality_icon,ville,age_ans,marque,modele
+28980,essence micro hybride,automatique,gris,berline,loueur,non,5420.0,7.0,136.0,5,5,4.367,1.859,1.441,1375.0,412.0,,chambéry,0.7392197125256673,1.2,hybrid
+13499,diesel,manuelle,,berline,particulier,non,88286.0,5.0,100.0,5,5,4.05,1.798,1.44,,366.0,crit'air niveau 2,créteil,3.1813826146475015,1.5,blue
+15299,essence,manuelle,noir,berline,loueur,non,24382.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,arras,2.2669404517453797,1.0,tce
+11480,essence,manuelle,jaune,berline,particulier,non,90699.0,5.0,102.0,5,5,4.055,1.765,1.43,1102.0,265.0,crit'air niveau 1,eybens,5.007529089664613,1.2,puretech
+11499,essence,manuelle,blanc,berline,loueur,non,45000.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,poitiers,2.617385352498289,1.2,puretech
+15299,gpl,manuelle,brun,break,particulier,non,70886.0,5.0,101.0,5,5,4.547,1.784,1.629,1223.0,842.0,crit'air niveau 1,coquelles,2.937713894592745,1.0,eco-g
+19199,gpl,manuelle,,suv,particulier,non,21289.0,5.0,101.0,5,5,4.341,1.804,,1230.0,478.0,crit'air niveau 1,vitrolles,2.1574264202600957,1.0,eco-g
+25980,,manuelle,blanc,,importation,non,100.0,7.0,0.0,0,0,,,,,,,la ravoire,0.34770704996577684,expression,4x4
+16490,diesel,automatique,noir,suv,particulier,non,85781.0,6.0,120.0,5,5,4.16,1.756,1.597,1260.0,410.0,crit'air niveau 2,besancon,4.145106091718001,bluehdi,120ch
+27999,hybride,automatique,noir,suv,loueur,non,7832.0,5.0,94.0,5,5,4.343,1.921,1.616,1305.0,496.0,crit'air niveau 1,liévin,0.4490075290896646,1.6,hybrid
+28999,hybride,automatique,rouge,suv,société,non,62272.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,orthez,3.671457905544148,hybrid,225ch
+15992,essence,automatique,blanc,berline,particulier,non,54862.0,7.0,130.0,5,5,4.055,1.765,1.43,1158.0,265.0,crit'air niveau 1,grenoble,4.369609856262834,1.2,puretech
+14990,essence,manuelle,jaune,berline,loueur,non,17722.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,saint-martin-sur-le-pré,1.4182067077344285,1.2,puretech
+15799,essence,manuelle,noir,berline,particulier,non,22902.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,coquelles,2.0917180013689256,1.0,tce
+13699,essence,manuelle,blanc,berline,loueur,non,43913.0,4.0,67.0,5,5,4.05,1.798,1.44,953.0,391.0,crit'air niveau 1,arras,3.0910335386721424,1.0,sce
+21999,hybride,automatique,bi-ton,suv,loueur,oui,36965.0,5.0,91.0,5,5,4.227,1.797,1.576,1461.0,440.0,crit'air niveau 1,laon,3.0855578370978782,1.6,e-tech
+27578,hybride,automatique,gris,suv,importation,non,10.0,5.0,94.0,5,5,4.239,1.797,1.575,1295.0,440.0,crit'air niveau 1,arnas,0.4161533196440794,1.6,e-tech
+12499,essence,manuelle,gris,berline,société,oui,30431.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,niort,2.5900068446269677,1.2,puretech
+15999,essence,manuelle,blanc,berline,loueur,oui,14105.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,maizières-la-grande-paroisse,2.2340862422997945,1.0,tce
+16380,electrique,automatique,bleu,berline,loueur,non,21483.0,4.0,136.0,5,5,4.055,1.745,1.43,1455.0,265.0,crit'air niveau 0,bourg-en-bresse,3.4387405886379194,e-208,136ch
+25998,diesel,automatique,gris,berline,particulier,non,7834.0,7.0,131.0,5,5,4.367,1.859,1.441,1361.0,412.0,crit'air niveau 2,la ravoire,1.3415468856947297,1.5,bluehdi
+27999,hybride,automatique,bi-ton,suv,société,non,12925.0,5.0,94.0,5,5,4.239,1.797,1.575,1295.0,440.0,crit'air niveau 1,créteil,0.676249144421629,1.6,e-tech
+15799,essence,manuelle,jaune,berline,société,oui,11569.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,aix-en-provence,1.4483230663928817,1.2,puretech
+19999,electrique,automatique,gris,berline,loueur,non,15049.0,4.0,136.0,5,5,4.055,1.765,1.43,1455.0,265.0,crit'air niveau 0,salon-de-provence,2.088980150581793,e-208,136ch
+31489,hybride rechargeable,automatique,gris,suv,,non,100.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,compiègne,0.8733744010951403,2.4,mivec
+17499,essence,manuelle,bi-ton,suv,loueur,non,8945.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,annemasse,2.3655030800821355,1.0,tce
+24999,essence micro hybride,automatique,gris,suv,société,oui,38100.0,7.0,136.0,5,5,4.447,1.906,1.624,1478.0,520.0,,champniers,1.5441478439425051,hybrid,136ch
+21999,essence micro hybride,automatique,noir,suv,loueur,non,38509.0,7.0,140.0,5,5,4.568,1.82,1.571,1261.0,513.0,,laon,1.4976043805612593,1.3,tce
+14499,electrique,automatique,violet,berline,loueur,non,47982.0,4.0,109.0,5,5,4.087,1.787,1.562,1427.0,338.0,crit'air niveau 0,metz,3.3401779603011637,e-tech,evolution
+21499,essence bioéthanol,manuelle,noir,suv,particulier,oui,10903.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,cambrai,3.326488706365503,1.0,flexifuel
+10180,essence,manuelle,bi-ton,berline,particulier,oui,36960.0,4.0,83.0,5,5,3.996,1.749,1.474,,300.0,crit'air niveau 1,charleville-mézières,4.887063655030801,1.2,puretech
+30499,hybride rechargeable,automatique,blanc,suv,,non,5.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,vitry-sur-seine,0.8733744010951403,2.4,mivec
+18499,gpl,manuelle,brun,break,particulier,non,40130.0,5.0,101.0,5,7,4.547,1.784,1.632,1291.0,712.0,crit'air niveau 1,dunkerque,2.7789185489390826,1.0,eco-g
+16900,essence,manuelle,gris,berline,loueur,oui,4761.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,soissons,1.9548254620123204,1.0,tce
+15399,essence,manuelle,gris,berline,loueur,non,25596.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,châlons-en-champagne,2.31895961670089,1.0,tce
+13499,gpl,manuelle,blanc,berline,loueur,non,48754.0,5.0,101.0,5,5,4.088,1.848,1.499,1055.0,328.0,crit'air niveau 1,marly,3.047227926078029,1.0,eco-g
+15499,gpl,manuelle,gris,berline,loueur,oui,23490.0,5.0,101.0,5,5,4.099,1.848,1.535,1079.0,328.0,crit'air niveau 1,soissons,3.268993839835729,1.0,eco-g
+16299,diesel,manuelle,orange,suv,société,oui,75704.0,6.0,109.0,5,5,4.3,1.77,1.55,1205.0,405.0,crit'air niveau 2,aix-en-provence,3.682409308692676,1.5,bluehdi
+12499,essence,manuelle,blanc,berline,société,oui,13240.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,niort,2.193018480492813,1.2,puretech
+13697,essence,manuelle,blanc,suv,société,oui,42000.0,6.0,110.0,5,5,4.16,1.756,1.597,1179.0,410.0,crit'air niveau 1,reims,3.36208076659822,puretech,110ch
+30299,essence micro hybride,automatique,blanc,suv,société,non,50.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,avignon,0.17248459958932238,1.2,hybrid
+15278,electrique,automatique,gris,berline,loueur,non,39933.0,4.0,136.0,5,5,4.055,1.765,1.43,1455.0,265.0,crit'air niveau 0,seynod,4.394250513347022,e-208,136ch
+32499,hybride rechargeable,automatique,blanc,suv,société,non,5.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,nanterre,0.865160848733744,2.4,mivec
+17990,essence,manuelle,blanc,suv,loueur,non,25185.0,7.0,130.0,5,5,4.341,1.804,,1234.0,1478.0,crit'air niveau 1,seyssinet pariset,4.917180013689254,1.3,tce
+29499,hybride,automatique,vert,suv,loueur,non,3365.0,5.0,94.0,5,5,4.343,1.921,1.616,1305.0,496.0,crit'air niveau 1,mexy,0.3915126625598905,1.6,hybrid
+37990,essence micro hybride,automatique,gris,suv,société,oui,5000.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,champniers,0.46269678302532513,1.2,hybrid
+39900,essence micro hybride,automatique,blanc,suv,,non,10.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,beauvais,0.17248459958932238,1.2,hybrid
+19799,essence micro hybride,automatique,gris,suv,loueur,non,63902.0,7.0,140.0,5,5,4.568,1.821,1.571,1336.0,513.0,,sains-en-gohelle,4.257357973990418,1.3,tce
+34499,essence micro hybride,automatique,gris,suv,société,non,4999.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,saint-cyr-sur-loire,0.6242299794661191,1.2,hybrid
+17999,essence,manuelle,blanc,berline,société,non,60404.0,5.0,102.0,3,4,3.821,1.727,1.414,1140.0,211.0,crit'air niveau 1,poitiers,4.867898699520876,one,102ch
+15499,essence,manuelle,gris,suv,particulier,non,81846.0,7.0,130.0,5,5,4.341,1.804,,1234.0,1478.0,crit'air niveau 1,lomme,4.42984257357974,1.3,tce
+29999,essence micro hybride,automatique,bleu,suv,loueur,oui,10.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,clermont-ferrand,0.17248459958932238,1.2,hybrid
+25799,hybride,automatique,rouge,suv,particulier,non,17961.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,dunkerque,0.6981519507186859,1.6,e-tech
+28999,essence micro hybride,automatique,bi-ton,suv,société,non,50.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,avignon,0.17248459958932238,1.2,hybrid
+18489,hybride,manuelle,blanc,,,non,49958.0,4.0,0.0,5,0,,,,,,crit'air niveau 1,albertville,2.43668720054757,e-c4,moteur
+34999,essence micro hybride,automatique,bleu,suv,loueur,non,12.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,compiègne,0.4271047227926078,1.2,hybrid
+15799,gpl,manuelle,vert,berline,loueur,non,7272.0,5.0,101.0,5,5,4.099,1.848,1.535,1079.0,328.0,crit'air niveau 1,magenta,2.513347022587269,1.0,eco-g
+17499,gpl,manuelle,blanc,break,loueur,non,30000.0,5.0,101.0,5,5,4.547,1.784,1.629,1223.0,842.0,crit'air niveau 1,saint-avold,3.0171115674195756,1.0,eco-g
+20979,essence micro hybride,automatique,noir,suv,loueur,non,20688.0,7.0,140.0,5,5,4.568,1.821,1.571,1261.0,513.0,,bourg-en-bresse,2.0561259411362083,1.3,tce
+24999,hybride,automatique,rouge,suv,loueur,non,7707.0,5.0,94.0,5,5,4.568,1.82,1.571,1360.0,480.0,crit'air niveau 1,nanteuil-les-meaux,1.4373716632443532,1.6,e-tech
+14579,essence,automatique,blanc,berline,loueur,non,88393.0,7.0,131.0,5,5,4.36,1.834,1.525,1278.0,380.0,crit'air niveau 1,chambéry,3.5071868583162216,puretech,130ch
+12990,electrique,automatique,gris,berline,loueur,non,65633.0,4.0,136.0,5,5,4.055,1.765,1.43,1455.0,265.0,crit'air niveau 0,grenoble,5.256673511293634,e-208,136ch
+24990,gpl,manuelle,blanc,suv,loueur,non,5615.0,5.0,101.0,5,5,4.343,1.921,1.616,1195.0,513.0,crit'air niveau 1,chauny,0.3750855578370979,1.0,eco-g
+26999,hybride,automatique,blanc,suv,loueur,non,1578.0,5.0,94.0,5,5,4.343,1.921,1.616,1305.0,594.0,crit'air niveau 1,istres,0.6242299794661191,1.6,hybrid
+17499,gpl,manuelle,vert,berline,loueur,non,12996.0,5.0,101.0,5,5,4.099,1.848,1.535,1079.0,328.0,crit'air niveau 1,nanteuil-les-meaux,0.676249144421629,1.0,eco-g
+21690,essence,manuelle,gris,berline,loueur,non,7896.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,pontarlier,0.7364818617385352,1.0,tce
+29999,hybride,automatique,bleu,suv,particulier,oui,51099.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,montluçon,3.586584531143053,hybrid,225ch
+18999,essence micro hybride,automatique,jaune,berline,société,non,16108.0,5.0,100.0,5,5,4.055,1.765,1.43,1175.0,352.0,,chinon,1.3853524982888432,1.2,hybrid
+26799,essence,automatique,blanc,berline,particulier,non,24849.0,7.0,136.0,5,5,4.023,1.727,1.425,1230.0,278.0,crit'air niveau 1,mérignac,3.0937713894592744,cooper,136ch
+14990,essence,manuelle,jaune,berline,,non,15912.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,charleville-mézières,1.5906913073237507,1.2,puretech
+13490,essence,manuelle,blanc,berline,particulier,non,54303.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,besancon,2.4421629021218343,1.0,tce
+25499,hybride,automatique,gris,suv,loueur,non,45779.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,clermont-ferrand,3.5071868583162216,hybrid,225ch
+16799,essence,manuelle,noir,berline,loueur,non,20589.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,coquelles,2.193018480492813,1.0,tce
+15999,essence,manuelle,noir,berline,loueur,oui,13152.0,5.0,91.0,5,5,4.099,1.848,1.535,1021.0,328.0,crit'air niveau 1,fouquières-lès-béthune,1.5249828884325805,1.0,tce
+14299,essence,manuelle,blanc,berline,particulier,non,41426.0,5.0,102.0,5,5,4.055,1.745,1.43,1090.0,265.0,crit'air niveau 1,saint-maximin,3.3374401095140316,1.2,puretech
+23999,hybride,automatique,gris,suv,loueur,non,12145.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,arras,1.3442847364818618,1.6,e-tech
+18810,essence,automatique,noir,suv,loueur,non,93380.0,7.0,131.0,5,5,4.447,1.841,1.624,1320.0,520.0,crit'air niveau 1,grenoble,3.5071868583162216,1.2,puretech
+24999,essence,automatique,bleu,berline,particulier,oui,44477.0,7.0,136.0,5,5,4.023,1.727,1.425,1230.0,278.0,crit'air niveau 1,mérignac,3.2060232717316905,cooper,136ch
+18980,essence,automatique,noir,suv,loueur,non,18125.0,7.0,131.0,5,5,4.3,1.77,1.55,1205.0,434.0,crit'air niveau 1,grenoble,2.513347022587269,1.2,puretech
+19499,electrique,automatique,orange,suv,particulier,oui,30644.0,4.0,136.0,5,5,4.3,1.77,1.55,1548.0,405.0,crit'air niveau 0,champniers,3.3429158110882957,e-2008,136ch
+18999,electrique,automatique,jaune,berline,loueur,non,17745.0,4.0,136.0,5,5,4.055,1.765,1.43,1455.0,265.0,crit'air niveau 0,salon-de-provence,2.088980150581793,e-208,136ch
+32799,hybride rechargeable,automatique,gris,suv,société,oui,100.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,bagneux,0.8733744010951403,2.4,mivec
+12680,essence,manuelle,gris,berline,loueur,non,24965.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,chambéry,3.0171115674195756,1.2,puretech
+15999,essence,manuelle,noir,berline,loueur,non,20146.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,coquelles,2.190280629705681,1.0,tce
+14499,electrique,automatique,noir,berline,loueur,oui,57195.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,mexy,3.920602327173169,e-tech,intens
+23999,electrique,automatique,bi-ton,suv,,non,30000.0,4.0,218.0,5,5,4.199,1.86,1.501,1636.0,440.0,crit'air niveau 0,hazebrouck,2.921286789869952,e-tech,electric
+27999,essence micro hybride,automatique,blanc,suv,société,oui,500.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,châtellerault,0.17248459958932238,1.2,hybrid
+15499,electrique,automatique,bleu,berline,particulier,oui,36330.0,4.0,136.0,5,5,4.055,1.745,1.43,1455.0,265.0,crit'air niveau 0,châtellerault,3.4524298425735798,e-208,136ch
+29999,essence micro hybride,automatique,bleu,suv,société,non,50.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,avignon,0.17248459958932238,1.2,hybrid
+12799,essence,manuelle,blanc,berline,société,oui,25758.0,6.0,110.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 1,niort,2.3436002737850785,1.2,puretech
+11999,essence,manuelle,gris,berline,société,oui,42254.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,niort,2.863791923340178,1.2,puretech
+11799,essence,manuelle,blanc,berline,société,oui,43281.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,niort,2.3381245722108144,1.2,puretech
+19987,hybride rechargeable,automatique,gris,suv,particulier,non,27123.0,5.0,92.0,5,5,4.227,1.797,1.576,1564.0,379.0,crit'air niveau 1,besancon,3.436002737850787,1.6,e-tech
+18999,essence micro hybride,automatique,jaune,berline,loueur,non,13514.0,5.0,100.0,5,5,4.055,1.765,1.43,1175.0,352.0,,charmeil,1.3114305270362765,1.2,hybrid
+15499,essence,manuelle,blanc,berline,loueur,non,17734.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,hazebrouck,2.2642026009582477,1.0,tce
+17999,essence,manuelle,gris,berline,société,non,10268.0,6.0,110.0,5,5,4.099,1.848,1.535,1031.0,328.0,crit'air niveau 1,saint-alban-leysse,1.5770020533880904,1.0,tce
+29499,diesel,automatique,,suv,société,non,7852.0,7.0,131.0,5,5,4.447,1.906,1.624,1429.0,520.0,crit'air niveau 2,serres-castet,1.4264202600958247,1.5,bluehdi
+20499,gpl,manuelle,brun,break,loueur,non,23125.0,5.0,101.0,5,7,4.547,1.784,1.632,1291.0,712.0,crit'air niveau 1,metz,1.4236824093086926,1.0,eco-g
+18299,essence,manuelle,bi-ton,suv,société,non,14092.0,5.0,100.0,5,5,4.015,1.755,1.577,,310.0,crit'air niveau 1,poitiers,1.0075290896646132,1.2,puretech
+12299,electrique,automatique,rouge,berline,société,non,39639.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,loison-sous-lens,4.336755646817249,e-tech,life
+24299,hybride,automatique,noir,suv,particulier,non,12138.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,dunkerque,2.3408624229979464,1.6,e-tech
+16300,electrique,automatique,blanc,berline,société,non,23359.0,4.0,109.0,5,5,4.087,1.787,1.562,1427.0,338.0,crit'air niveau 0,valence,3.345653661875428,e-tech,evolution
+16299,essence,automatique,blanc,berline,loueur,non,4117.0,5.0,102.0,5,5,4.055,1.765,1.43,1133.0,265.0,crit'air niveau 1,poitiers,2.001368925393566,1.2,puretech
+17299,diesel,manuelle,,berline,particulier,non,51308.0,5.0,100.0,5,5,4.05,1.798,1.44,1173.0,366.0,crit'air niveau 2,coquelles,1.3853524982888432,1.5,blue
+16299,essence,manuelle,gris,berline,particulier,non,25452.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,dunkerque,3.4223134839151266,1.0,tce
+16999,essence,manuelle,bi-ton,suv,,non,17792.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,bagneux,2.86652977412731,1.0,tce
+16276,gpl,manuelle,noir,berline,loueur,non,6887.0,5.0,100.0,5,5,4.053,1.798,1.44,1086.0,318.0,crit'air niveau 1,vienne,1.538672142368241,1.0,eco-g
+28477,hybride,automatique,bleu,suv,loueur,non,6521.0,5.0,94.0,5,5,4.568,1.82,1.571,1360.0,480.0,crit'air niveau 1,bourgoin-jallieu,1.5550992470910336,1.6,e-tech
+11999,electrique,automatique,bleu,berline,loueur,non,47480.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,metz,4.427104722792608,e-tech,life
+25799,electrique,automatique,gris,suv,société,non,21464.0,4.0,218.0,5,5,4.2,1.86,1.501,1636.0,440.0,crit'air niveau 0,istres,2.0533880903490758,e-tech,electric
+22999,electrique,automatique,noir,suv,société,non,41197.0,4.0,218.0,5,5,4.199,1.86,1.501,1636.0,440.0,crit'air niveau 0,sequedin,3.36208076659822,e-tech,electric
+29990,hybride,automatique,gris,suv,loueur,non,8641.0,5.0,94.0,5,5,4.568,1.82,1.571,1360.0,480.0,crit'air niveau 1,reims,0.33127994524298426,1.6,e-tech
+19278,essence,automatique,gris,suv,loueur,non,32724.0,8.0,156.0,5,5,4.3,1.77,1.55,1205.0,405.0,crit'air niveau 1,chambéry,4.676249144421629,1.2,puretech
+31999,hybride rechargeable,automatique,blanc,suv,loueur,non,172.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,thonon-les-bains,0.8733744010951403,2.4,mivec
+14698,essence,manuelle,gris,berline,société,non,23787.0,4.0,67.0,5,5,4.05,1.798,1.44,953.0,391.0,crit'air niveau 1,valence,2.1738535249828885,1.0,sce
+15499,diesel,manuelle,rouge,berline,société,non,55209.0,5.0,102.0,5,5,4.055,1.745,1.43,1090.0,265.0,crit'air niveau 2,saint-cyr-sur-loire,2.7871321013004793,1.5,bluehdi
+14999,essence,manuelle,blanc,berline,auto-école,non,61834.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,magenta,1.5578370978781657,1.0,tce
+10780,essence,manuelle,blanc,berline,société,oui,14351.0,4.0,83.0,5,5,3.996,1.749,1.474,,300.0,crit'air niveau 1,charleville-mézières,5.086926762491444,1.2,puretech
+26497,essence micro hybride,automatique,gris,berline,loueur,non,16239.0,7.0,136.0,5,5,4.367,1.859,1.441,1375.0,412.0,,chambéry,1.0732375085557837,1.2,hybrid
+11999,electrique,automatique,blanc,berline,particulier,oui,39869.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,maizières-la-grande-paroisse,4.610540725530458,e-tech,life
+25299,hybride,automatique,rouge,suv,loueur,oui,18318.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,laon,2.3627652292950034,1.6,e-tech
+23980,diesel,automatique,gris,berline,loueur,oui,24400.0,7.0,131.0,5,5,4.36,1.834,1.525,1324.0,380.0,crit'air niveau 2,reims,1.4565366187542779,1.5,bluehdi
+17490,essence,automatique,noir,suv,loueur,non,59064.0,7.0,131.0,5,5,4.3,1.77,1.55,1205.0,405.0,crit'air niveau 1,seynod,3.189596167008898,1.2,puretech
+24999,gpl,manuelle,gris,suv,loueur,non,1343.0,5.0,101.0,5,5,4.343,1.921,1.616,1195.0,513.0,crit'air niveau 1,troyes,0.3531827515400411,1.0,eco-g
+16999,essence,manuelle,gris,suv,société,non,18061.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,troyes,1.6947296372347707,1.0,tce
+11499,gpl,manuelle,blanc,berline,particulier,non,62846.0,5.0,101.0,5,5,4.088,1.848,1.499,1032.0,328.0,crit'air niveau 1,laon,3.802874743326489,1.0,eco-g
+15999,electrique,automatique,bleu,berline,loueur,oui,49555.0,4.0,136.0,5,5,4.055,1.745,1.43,1455.0,265.0,crit'air niveau 0,salon-de-provence,3.2881587953456535,e-208,136ch
+15490,gpl,manuelle,blanc,berline,particulier,non,23967.0,5.0,101.0,5,5,4.099,1.848,1.535,1059.0,328.0,crit'air niveau 1,hazebrouck,1.1718001368925393,1.0,eco-g
+15899,essence,manuelle,gris,berline,loueur,oui,10950.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,nieppe,2.2861054072553046,1.0,tce
+25999,electrique,automatique,blanc,suv,société,non,18405.0,4.0,218.0,5,5,4.199,1.86,1.501,1636.0,440.0,crit'air niveau 0,coquelles,3.028062970568104,e-tech,electric
+14665,essence,manuelle,gris,berline,loueur,non,10447.0,6.0,110.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 1,chambéry,1.5906913073237507,1.2,puretech
+12739,essence,manuelle,bi-ton,berline,loueur,non,15592.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,dizy,2.439425051334702,1.2,essence
+14999,essence,manuelle,gris,berline,société,oui,24267.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,niort,2.21492128678987,1.0,tce
+23499,hybride,automatique,blanc,suv,loueur,non,54895.0,5.0,94.0,5,5,4.568,1.821,1.571,1360.0,480.0,crit'air niveau 1,laon,2.6858316221765914,1.6,e-tech
+34987,hybride,automatique,bi-ton,suv,loueur,non,16500.0,8.0,190.0,5,5,4.425,1.835,1.625,1610.0,504.0,crit'air niveau 1,vénissieux,1.0622861054072552,e-power,190ch
+22299,hybride,automatique,bi-ton,suv,particulier,oui,17880.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,nieppe,3.1156741957563314,1.6,e-tech
+17799,gpl,manuelle,gris,suv,particulier,non,44296.0,5.0,101.0,5,5,4.341,1.804,,1214.0,1478.0,crit'air niveau 1,longuenesse,3.0663928815879533,1.0,eco-g
+12280,diesel,manuelle,blanc,berline,loueur,non,81421.0,5.0,102.0,5,5,3.996,1.749,1.474,1086.0,300.0,crit'air niveau 2,eybens,3.2854209445585214,1.5,bluehdi
+23499,essence bioéthanol,manuelle,blanc,suv,particulier,oui,10166.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,coignières,2.2039698836413417,1.0,flexifuel
+17990,essence,manuelle,blanc,suv,,non,22289.0,5.0,102.0,5,5,4.304,1.775,1.55,1188.0,434.0,crit'air niveau 1,grenoble,1.5030800821355237,1.2,puretech
+17999,essence bioéthanol,manuelle,blanc,suv,société,oui,46625.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,vitry-sur-seine,3.589322381930185,1.0,flexifuel
+29799,hybride,automatique,gris,suv,,non,10500.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,poitiers,3.373032169746749,hybrid,225ch
+23499,hybride,automatique,noir,suv,société,oui,37700.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,bassussarry,3.9315537303216974,hybrid,225ch
+21499,hybride,automatique,orange,berline,particulier,non,20150.0,5.0,91.0,5,5,4.053,1.798,1.44,1163.0,301.0,crit'air niveau 1,rezé,1.3470225872689938,1.6,e-tech
+13280,essence,manuelle,jaune,berline,loueur,non,23228.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,chambéry,2.3819301848049284,1.2,puretech
+11899,electrique,automatique,blanc,berline,,non,47582.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,lomme,4.936344969199179,life,charge
+19309,essence,manuelle,gris,suv,loueur,non,22395.0,5.0,102.0,5,5,4.304,1.775,1.55,1188.0,434.0,crit'air niveau 1,grenoble,1.0841889117043122,1.2,100ch
+12799,electrique,automatique,gris,berline,loueur,non,32623.0,4.0,109.0,5,5,4.087,1.787,1.562,1502.0,338.0,crit'air niveau 0,arras,4.112251882272417,e-tech,life
+30479,essence micro hybride,automatique,noir,suv,loueur,non,25228.0,7.0,136.0,5,5,4.542,1.895,1.641,1573.0,520.0,,bourg-en-bresse,1.1690622861054072,1.2,hybrid
+20299,essence micro hybride,manuelle,gris,suv,particulier,non,25922.0,7.0,140.0,5,5,4.227,1.797,1.576,1172.0,536.0,,terville,2.346338124572211,1.3,tce
+13779,essence,manuelle,blanc,suv,loueur,non,78986.0,5.0,102.0,5,5,4.3,1.77,1.55,1192.0,405.0,crit'air niveau 1,la ravoire,4.342231348391513,1.2,puretech
+22899,diesel,automatique,gris,berline,loueur,non,25737.0,6.0,115.0,5,5,4.359,1.814,1.447,1376.0,394.0,crit'air niveau 2,annemasse,1.6125941136208077,1.5,blue
+23499,hybride,automatique,gris,berline,loueur,non,8971.0,5.0,91.0,5,5,4.053,1.798,1.44,1163.0,301.0,crit'air niveau 1,nanteuil-les-meaux,0.7282683093771389,1.6,e-tech
+11180,essence,manuelle,gris,berline,particulier,non,67231.0,5.0,90.0,5,5,4.089,1.733,1.559,1040.0,320.0,crit'air niveau 1,romans-sur-isère,5.806981519507187,0.9,tce
+15690,essence,automatique,noir,suv,particulier,non,80201.0,7.0,131.0,5,5,4.447,1.841,1.624,1270.0,520.0,crit'air niveau 1,charleville-mézières,6.1738535249828885,1.2,puretech
+20499,essence micro hybride,automatique,noir,suv,loueur,oui,23136.0,7.0,140.0,5,5,4.568,1.821,1.571,1261.0,513.0,,roncq,2.513347022587269,1.3,tce
+15999,essence,manuelle,bleu,berline,loueur,oui,19334.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,maizières-la-grande-paroisse,2.2340862422997945,1.0,tce
+21999,essence micro hybride,automatique,noir,suv,particulier,non,29100.0,7.0,140.0,5,5,4.568,1.821,1.571,1261.0,513.0,,dunkerque,3.863107460643395,1.3,tce
+24499,hybride,automatique,blanc,suv,particulier,oui,66712.0,10.0,181.0,5,5,4.447,1.841,1.624,1761.0,395.0,crit'air niveau 1,niort,3.5318275154004106,hybrid,225ch
+18980,essence micro hybride,manuelle,bi-ton,suv,loueur,non,68693.0,7.0,140.0,5,5,4.227,1.797,1.576,1247.0,536.0,,davezieux,3.0855578370978782,1.3,tce
+22299,essence,manuelle,bleu,berline,loueur,non,3649.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,laon,0.6625598904859685,1.0,tce
+27499,essence micro hybride,automatique,gris,suv,,oui,500.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,saint-cyr-sur-loire,0.33675564681724846,1.2,hybrid
+30999,essence micro hybride,automatique,bleu,suv,société,non,21867.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,chambray-lès-tours,0.810403832991102,1.2,hybrid
+13799,essence,manuelle,blanc,berline,loueur,non,20177.0,5.0,102.0,5,5,4.055,1.745,1.43,1090.0,265.0,crit'air niveau 1,charleville-mézières,2.5872689938398357,1.2,puretech
+26999,hybride,automatique,gris,suv,loueur,non,10467.0,5.0,94.0,5,5,4.343,1.921,1.616,1305.0,594.0,crit'air niveau 1,thonon-les-bains,1.1389459274469542,1.6,hybrid
+17999,essence,manuelle,gris,suv,société,oui,7229.0,5.0,101.0,5,5,4.015,1.755,1.567,1151.0,328.0,crit'air niveau 1,niort,0.947296372347707,1.2,turbo
+16499,essence,manuelle,gris,berline,société,non,17757.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,reims,2.346338124572211,1.0,tce
+27999,hybride,automatique,gris,suv,société,non,11846.0,5.0,94.0,5,5,4.239,1.797,1.575,1295.0,440.0,crit'air niveau 1,créteil,0.6981519507186859,1.6,e-tech
+15999,essence,manuelle,noir,suv,particulier,non,21050.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,hazebrouck,3.759069130732375,1.0,tce
+30499,hybride,automatique,rouge,suv,loueur,non,16815.0,5.0,94.0,5,5,4.239,1.797,1.575,1295.0,440.0,crit'air niveau 1,chauny,0.7282683093771389,1.6,e-tech
+17499,diesel,manuelle,orange,berline,auto-école,oui,34770.0,5.0,100.0,5,5,4.053,1.798,1.44,1173.0,366.0,crit'air niveau 2,reims,1.5359342915811087,1.5,blue
+22999,hybride,automatique,bi-ton,suv,loueur,non,31345.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,magenta,1.9247091033538672,1.6,e-tech
+20999,essence bioéthanol,manuelle,gris,suv,particulier,non,21852.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,cambrai,2.7624914442162902,1.0,flexifuel
+15490,diesel,manuelle,bleu,berline,particulier,non,47019.0,5.0,100.0,5,5,4.05,1.798,1.44,1173.0,366.0,crit'air niveau 2,davezieux,3.3648186173853527,1.5,blue
+20380,diesel,manuelle,gris,suv,particulier,oui,67653.0,7.0,131.0,5,5,4.5,1.969,1.689,1430.0,580.0,crit'air niveau 2,eybens,4.588637919233402,bluehdi,130ch
+14279,essence,manuelle,gris,suv,loueur,non,34131.0,6.0,110.0,5,5,4.16,1.756,1.597,1179.0,410.0,crit'air niveau 1,eybens,4.506502395619439,puretech,110ch
+13459,essence,manuelle,blanc,berline,loueur,oui,19400.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,reims,2.433949349760438,1.2,puretech
+14299,gpl,manuelle,blanc,suv,particulier,non,39109.0,5.0,101.0,5,5,4.341,1.804,,1252.0,1478.0,crit'air niveau 1,nanteuil-les-meaux,4.361396303901437,1.0,eco-g
+23299,hybride rechargeable,automatique,rouge,suv,loueur,oui,42795.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,liévin,2.7405886379192332,2.4,mivec
+21980,hybride,automatique,bleu,berline,loueur,non,28803.0,5.0,91.0,5,5,4.053,1.798,1.44,1198.0,301.0,crit'air niveau 1,chambéry,2.1574264202600957,1.6,e-tech
+22299,hybride,automatique,noir,utilitaire,loueur,non,18314.0,5.0,143.0,5,2,4.053,1.798,1.44,1260.0,,crit'air niveau 1,liévin,0.7282683093771389,1.6,e-tech
+12217,essence,manuelle,blanc,berline,loueur,oui,17200.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,reims,2.7679671457905544,1.2,puretech
+16499,electrique,automatique,violet,berline,particulier,oui,42933.0,4.0,136.0,5,5,4.087,1.787,1.562,1427.0,338.0,crit'air niveau 0,troyes,3.3018480492813143,e-tech,techno
+13299,essence,manuelle,blanc,berline,loueur,non,46867.0,4.0,67.0,5,5,4.05,1.798,1.44,953.0,391.0,crit'air niveau 1,arras,2.91854893908282,1.0,sce
+12580,essence,manuelle,gris,berline,loueur,non,13013.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,chambéry,3.0198494182067077,1.2,puretech
+22900,electrique,automatique,gris,berline,loueur,non,18683.0,5.0,184.0,3,4,3.85,1.727,1.432,1365.0,211.0,crit'air niveau 0,aix-en-provence,2.9897330595482545,cooper,se
+19199,essence micro hybride,manuelle,bi-ton,suv,,non,30450.0,7.0,140.0,5,5,4.227,1.797,1.576,1172.0,536.0,,vitrolles,2.3436002737850785,1.3,tce
+9665,essence,manuelle,blanc,berline,loueur,non,69492.0,4.0,83.0,5,5,3.996,1.749,1.474,,300.0,crit'air niveau 1,la ravoire,4.676249144421629,1.2,puretech
+14778,essence,manuelle,gris,suv,loueur,non,52713.0,7.0,131.0,5,5,4.3,1.77,1.55,1192.0,405.0,crit'air niveau 1,la ravoire,4.37782340862423,1.2,puretech
+19590,diesel,automatique,blanc,suv,particulier,non,94759.0,9.0,178.0,5,5,4.5,1.969,1.689,1540.0,580.0,crit'air niveau 2,bourgoin-jallieu,5.675564681724846,bluehdi,180ch
+18499,essence,manuelle,rouge,suv,loueur,non,7902.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,fouquières-lès-béthune,1.5249828884325805,1.0,tce
+13499,essence,manuelle,bleu,berline,loueur,oui,9643.0,4.0,67.0,5,5,4.05,1.798,1.44,1028.0,391.0,crit'air niveau 1,forbach,4.087611225188227,1.0,sce
+16216,electrique,automatique,bleu,suv,loueur,non,73097.0,4.0,136.0,5,5,4.3,1.77,1.55,1548.0,405.0,crit'air niveau 0,seynod,4.435318275154004,e-2008,136ch
+23999,essence micro hybride,automatique,noir,suv,loueur,non,35569.0,7.0,140.0,5,5,4.568,1.82,1.571,1261.0,513.0,,reims,1.4976043805612593,1.3,tce
+13499,electrique,automatique,bleu,berline,particulier,non,32258.0,4.0,109.0,5,5,4.087,1.787,1.562,1427.0,338.0,crit'air niveau 0,dunkerque,3.3401779603011637,e-tech,equilibre
+12279,essence,manuelle,blanc,berline,loueur,oui,37200.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,reims,2.521560574948665,1.2,puretech
+19860,electrique,automatique,gris,berline,loueur,non,17536.0,4.0,156.0,5,5,4.055,1.765,1.43,1455.0,265.0,crit'air niveau 0,grenoble,2.088980150581793,e-208,156ch
+10978,diesel,manuelle,blanc,berline,loueur,non,109408.0,4.0,85.0,5,5,4.05,1.798,1.44,1277.0,366.0,crit'air niveau 2,bourg en bresse,5.71937029431896,1.5,blue
+22999,hybride,automatique,gris,suv,loueur,non,14246.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,metz,2.915811088295688,1.6,e-tech
+26879,hybride,automatique,bi-ton,suv,loueur,non,10.0,5.0,94.0,5,5,4.239,1.797,1.575,1295.0,440.0,crit'air niveau 1,bourg-en-bresse,0.35044490075290896,1.6,e-tech
+14999,essence,manuelle,jaune,berline,loueur,oui,6313.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,aix-en-provence,1.5249828884325805,1.2,puretech
+37999,essence micro hybride,automatique,bleu,suv,,non,100.0,7.0,136.0,5,5,4.542,1.934,1.641,1573.0,520.0,,billère,0.2518822724161533,1.2,hybrid
+18799,essence micro hybride,automatique,jaune,berline,loueur,non,9669.0,5.0,100.0,5,5,4.055,1.765,1.43,1175.0,352.0,,chambray-lès-tours,1.462012320328542,1.2,hybrid
+19299,diesel,manuelle,noir,suv,loueur,non,53829.0,6.0,116.0,5,5,4.341,1.804,,1275.0,1485.0,crit'air niveau 2,hénin-beaumont,3.4496919917864477,1.5,blue
+15999,essence,manuelle,blanc,berline,loueur,non,15323.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,laon,3.0855578370978782,1.0,tce
+28450,hybride,automatique,gris,suv,loueur,non,15621.0,8.0,190.0,5,5,4.425,1.835,1.625,1610.0,504.0,crit'air niveau 1,bourg-en-bresse,1.4017796030116358,e-power,190ch
+10696,essence,manuelle,bleu,berline,particulier,non,99000.0,5.0,102.0,5,5,4.055,1.765,1.43,1102.0,265.0,crit'air niveau 1,seynod,5.278576317590692,1.2,puretech
+22299,gpl,manuelle,noir,break,loueur,non,7430.0,5.0,101.0,5,7,4.547,1.784,1.632,1177.0,712.0,crit'air niveau 1,saint-alban-leysse,0.4490075290896646,1.0,eco-g
+15999,essence,manuelle,gris,berline,loueur,non,26126.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,pertuis,1.1389459274469542,1.0,tce
+14499,essence,manuelle,orange,berline,particulier,oui,34204.0,5.0,91.0,5,5,4.099,1.848,1.535,1021.0,328.0,crit'air niveau 1,niort,2.839151266255989,1.0,tce
+10484,essence,manuelle,blanc,berline,loueur,non,36838.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,charleville-mézières,3.3429158110882957,1.2,puretech
+18299,essence,manuelle,bleu,suv,,non,7761.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,hénin-beaumont,1.7467488021902806,1.0,tce
+22980,essence micro hybride,automatique,gris,berline,,non,11759.0,7.0,136.0,5,5,4.055,1.745,1.43,1228.0,352.0,,bourg-en-bresse,1.0951403148528405,1.2,hybrid
+17299,essence,manuelle,bleu,berline,particulier,non,29054.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,nanteuil-les-meaux,3.7234770704996576,1.0,tce
+12499,essence,manuelle,gris,berline,société,oui,19749.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,niort,2.6721423682409307,1.2,puretech
+28499,hybride,automatique,gris,suv,loueur,oui,8736.0,5.0,91.0,5,5,4.227,1.797,1.576,1386.0,440.0,crit'air niveau 1,nanteuil-les-meaux,0.5420944558521561,1.6,e-tech
+32499,hybride rechargeable,automatique,gris,suv,société,non,10.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,avignon,0.8733744010951403,2.4,mivec
+12499,gpl,manuelle,gris,berline,particulier,non,58661.0,5.0,101.0,5,5,4.099,1.848,1.535,1134.0,328.0,crit'air niveau 1,sequedin,4.27378507871321,1.0,eco-g
+17999,essence bioéthanol,manuelle,gris,suv,particulier,oui,68759.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,coignières,3.3949349760438055,1.0,flexifuel
+13429,essence,manuelle,blanc,berline,loueur,oui,19600.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,reims,2.5872689938398357,1.2,puretech
+19499,essence micro hybride,automatique,noir,suv,société,non,22543.0,7.0,140.0,5,5,4.227,1.797,1.576,1203.0,536.0,,saint-victoret,1.4209445585215605,1.3,tce
+13990,essence,manuelle,gris,berline,loueur,oui,12921.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,vesoul,2.1738535249828885,1.0,tce
+14290,hybride,automatique,bleu,,particulier,non,96116.0,5.0,90.0,5,5,4.05,1.798,1.44,1238.0,254.0,crit'air niveau 1,pontarlier,3.9288158795345653,v,clio
+18499,hybride,automatique,blanc,berline,particulier,non,8912.0,5.0,90.0,5,5,4.05,1.798,1.44,1238.0,301.0,crit'air niveau 1,dunkerque,4.418891170431212,1.6,e-tech
+12780,essence,manuelle,blanc,berline,loueur,non,13113.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,chambéry,2.513347022587269,1.2,puretech
+15899,essence,manuelle,noir,berline,,oui,17075.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,poitiers,2.31895961670089,1.0,tce
+24899,essence,automatique,bleu,berline,société,non,30116.0,5.0,102.0,5,5,4.023,1.727,1.425,1235.0,278.0,crit'air niveau 1,aix-en-provence,3.249828884325804,one,102ch
+20499,essence,manuelle,gris,berline,particulier,non,1284.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,nanteuil-les-meaux,0.36960985626283366,1.0,tce
+21488,hybride,automatique,noir,suv,particulier,non,74393.0,5.0,94.0,5,5,4.568,1.821,1.571,1360.0,480.0,crit'air niveau 1,valence,3.3045859000684463,1.6,e-tech
+15990,diesel,manuelle,noir,suv,particulier,non,135137.0,8.0,150.0,5,5,4.447,1.841,1.624,1425.0,520.0,crit'air niveau 2,dizy,7.652292950034223,2.0,bluehdi
+10499,essence,manuelle,blanc,berline,auto-école,non,46949.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,poitiers,3.052703627652293,1.2,puretech
+17990,essence,manuelle,gris,suv,loueur,non,21522.0,5.0,102.0,5,5,4.304,1.775,1.55,1188.0,434.0,crit'air niveau 1,grenoble,1.5030800821355237,1.2,puretech
+15299,essence,manuelle,gris,berline,particulier,non,29835.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,hirson,2.732375085557837,1.0,tce
+15799,essence,manuelle,jaune,berline,loueur,oui,5787.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,aix-en-provence,1.4948665297741273,1.2,puretech
+19499,essence micro hybride,manuelle,gris,suv,société,oui,26334.0,7.0,140.0,5,5,4.227,1.797,1.576,1172.0,536.0,,nieppe,2.3436002737850785,1.3,tce
+17299,hybride,automatique,orange,berline,particulier,non,20021.0,5.0,90.0,5,5,4.05,1.798,1.44,,301.0,crit'air niveau 1,salon-de-provence,4.473648186173854,1.6,e-tech
+12799,gpl,manuelle,rouge,berline,loueur,non,58809.0,5.0,101.0,5,5,4.088,1.848,1.499,1055.0,328.0,crit'air niveau 1,liévin,3.1074606433949348,1.0,eco-g
+22980,hybride rechargeable,automatique,gris,suv,particulier,oui,36300.0,10.0,181.0,5,5,4.5,1.969,1.689,1750.0,460.0,crit'air niveau 1,reims,4.219028062970568,hybrid,225ch
+14999,essence,manuelle,bleu,berline,société,oui,37040.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,poitiers,3.3401779603011637,1.0,tce
+17980,gpl,manuelle,bi-ton,suv,loueur,non,18218.0,5.0,101.0,5,5,4.227,1.797,1.576,1164.0,536.0,crit'air niveau 1,bourg-en-bresse,1.3689253935660506,1.0,eco-g
+20799,essence micro hybride,automatique,noir,suv,loueur,non,29063.0,7.0,140.0,5,5,4.568,1.821,1.571,1261.0,513.0,,laon,2.0561259411362083,1.3,tce
+20499,electrique,automatique,noir,suv,particulier,oui,42836.0,4.0,218.0,5,5,4.199,1.86,1.501,1636.0,440.0,crit'air niveau 0,reims,3.0116358658453115,e-tech,electric
+15399,essence,manuelle,gris,berline,loueur,non,13865.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,fouquières-lès-béthune,2.245037645448323,1.0,tce
+31999,hybride rechargeable,automatique,blanc,suv,,non,10.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,sarreguemines,0.8733744010951403,2.4,mivec
+25799,essence micro hybride,automatique,bleu,suv,société,non,7431.0,8.0,155.0,5,5,4.186,1.805,1.537,1259.0,456.0,,chauny,2.302532511978097,1.0,ecoboost
+17900,essence,manuelle,gris,suv,,non,16239.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,beauvais,1.8453114305270362,1.0,tce
+23299,essence,manuelle,noir,berline,particulier,non,27754.0,5.0,102.0,3,4,3.863,1.727,1.414,1155.0,211.0,crit'air niveau 1,marignane,3.1704312114989732,one,102ch
+16999,diesel,manuelle,gris,berline,auto-école,non,45520.0,5.0,100.0,5,5,4.053,1.798,1.44,1173.0,366.0,crit'air niveau 2,roncq,1.3689253935660506,1.5,blue
+15990,essence,manuelle,noir,suv,loueur,non,53116.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,soissons,3.6906228610540723,1.0,tce
+11799,essence,manuelle,gris,berline,particulier,non,28387.0,4.0,75.0,5,5,4.055,1.765,1.43,980.0,265.0,crit'air niveau 1,avignon,4.167008898015058,1.2,puretech
+18990,diesel,manuelle,bleu,suv,particulier,oui,61042.0,6.0,116.0,5,5,4.341,1.804,,1320.0,1485.0,crit'air niveau 2,reims,3.7207392197125255,1.5,blue
+19999,essence micro hybride,automatique,gris,suv,,non,27962.0,8.0,158.0,5,5,4.227,1.797,1.576,1192.0,536.0,,saint-alban-leysse,3.381245722108145,1.3,tce
+12480,diesel,manuelle,noir,berline,,non,77694.0,5.0,102.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 2,eybens,3.3401779603011637,1.5,bluehdi
+25499,essence,automatique,noir,berline,société,non,32405.0,7.0,136.0,3,4,3.863,1.727,1.414,1175.0,211.0,crit'air niveau 1,aix-en-provence,3.7207392197125255,cooper,136ch
+16999,essence,manuelle,gris,suv,société,non,16773.0,5.0,91.0,5,5,4.227,1.797,1.576,1107.0,536.0,crit'air niveau 1,troyes,1.6947296372347707,1.0,tce
+19299,gpl,manuelle,gris,break,particulier,non,39308.0,5.0,101.0,5,5,4.547,1.784,1.629,1291.0,842.0,crit'air niveau 1,hirson,2.5900068446269677,1.0,eco-g
+18790,gpl,manuelle,vert,break,particulier,non,44963.0,5.0,101.0,5,7,4.547,1.784,1.632,1291.0,712.0,crit'air niveau 1,mexy,1.8206707734428473,1.0,eco-g
+19899,diesel,automatique,blanc,suv,société,non,70323.0,7.0,131.0,5,5,4.3,1.77,1.55,1235.0,405.0,crit'air niveau 2,poitiers,4.418891170431212,1.5,bluehdi
+31999,hybride rechargeable,automatique,gris,suv,,oui,41.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,salon-de-provence,0.8733744010951403,2.4,mivec
+20999,essence,manuelle,gris,berline,loueur,non,16493.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,nanteuil-les-meaux,0.7364818617385352,1.0,tce
+25299,essence,automatique,gris,suv,particulier,non,11.0,7.0,130.0,5,5,4.304,1.815,1.55,1205.0,434.0,crit'air niveau 1,saint-cyr-sur-loire,0.5968514715947981,1.2,130ch
+16199,essence,manuelle,noir,berline,,non,9163.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,serres-castet,2.245037645448323,1.0,tce
+15599,diesel,manuelle,rouge,suv,particulier,non,104210.0,6.0,115.0,5,5,4.394,1.806,1.59,1385.0,430.0,crit'air niveau 2,valence,5.982203969883641,1.5,dci
+12499,essence,manuelle,jaune,berline,société,oui,34259.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,civray,2.521560574948665,1.2,puretech
+15989,essence,manuelle,blanc,berline,loueur,oui,14184.0,5.0,91.0,5,5,4.099,1.848,1.535,1021.0,328.0,crit'air niveau 1,vesoul,1.3634496919917864,1.0,tce
+24999,essence micro hybride,automatique,gris,suv,loueur,non,8290.0,7.0,136.0,5,5,4.304,1.775,1.55,1297.0,434.0,,serres-castet,1.4373716632443532,1.2,hybrid
+14299,essence,manuelle,gris,berline,loueur,non,38699.0,5.0,91.0,5,5,4.05,1.798,1.44,1007.0,391.0,crit'air niveau 1,aix-en-provence,2.535249828884326,1.0,tce
+14799,essence,automatique,bi-ton,berline,importation,non,42093.0,6.0,110.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 1,beauvais,2.5872689938398357,1.2,puretech
+13799,gpl,manuelle,gris,berline,particulier,non,63023.0,5.0,101.0,5,5,4.099,1.848,1.535,1079.0,328.0,crit'air niveau 1,longuenesse,3.058179329226557,1.0,eco-g
+15999,essence,manuelle,jaune,berline,société,non,5243.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,aix-en-provence,1.4483230663928817,1.2,puretech
+15499,essence,automatique,jaune,berline,loueur,non,21816.0,5.0,102.0,5,5,4.055,1.765,1.43,1133.0,265.0,crit'air niveau 1,poitiers,2.0917180013689256,1.2,puretech
+14999,essence,manuelle,jaune,berline,loueur,non,14665.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,avignon,1.5359342915811087,1.2,puretech
+22499,electrique,automatique,blanc,suv,loueur,non,10499.0,4.0,131.0,5,5,4.2,1.86,1.501,1513.0,440.0,crit'air niveau 0,laon,2.0150581793292264,e-tech,electric
+15899,essence,automatique,blanc,berline,société,oui,16429.0,6.0,110.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 1,niort,1.9630390143737166,1.2,puretech
+6987,electrique,automatique,blanc,berline,loueur,non,122143.0,2.0,109.0,5,5,4.084,1.73,1.562,1500.0,338.0,crit'air niveau 0,saint-jean-de-soudain,6.573579739904175,intens,r110
+15999,essence,manuelle,gris,berline,loueur,non,14041.0,5.0,91.0,5,5,4.053,1.798,1.44,1028.0,391.0,crit'air niveau 1,civray,2.31895961670089,1.0,tce
+14299,essence,manuelle,bleu,berline,particulier,oui,59847.0,5.0,102.0,5,5,4.055,1.765,1.43,1102.0,265.0,crit'air niveau 1,châtellerault,2.940451745379877,1.2,puretech
+16399,essence,automatique,orange,berline,loueur,non,40826.0,5.0,91.0,5,5,4.099,1.848,1.535,1047.0,328.0,crit'air niveau 1,hénin-beaumont,2.86652977412731,1.0,tce
+13999,essence,automatique,gris,berline,loueur,non,58918.0,5.0,102.0,5,5,4.055,1.765,1.43,1133.0,265.0,crit'air niveau 1,orthez,4.418891170431212,1.2,puretech
+19999,essence,automatique,orange,suv,particulier,non,51210.0,7.0,131.0,5,5,4.3,1.77,1.55,1205.0,434.0,crit'air niveau 1,compiègne,2.595482546201232,1.2,puretech
+12290,essence,manuelle,bleu,suv,particulier,non,76213.0,7.0,131.0,5,5,4.447,1.841,1.624,1250.0,520.0,crit'air niveau 1,bourgoin-jallieu,9.026694045174539,1.2,puretech
+11499,essence,manuelle,blanc,berline,particulier,non,55618.0,4.0,75.0,5,5,4.055,1.765,1.43,980.0,265.0,crit'air niveau 1,saint-cyr-sur-loire,4.388774811772758,1.2,puretech
+15499,essence,manuelle,bleu,suv,loueur,non,51248.0,5.0,91.0,5,5,4.227,1.797,1.576,1182.0,536.0,crit'air niveau 1,laon,4.621492128678987,1.0,tce
+12988,essence,manuelle,blanc,berline,particulier,non,51417.0,5.0,91.0,5,5,4.088,1.848,1.499,997.0,328.0,crit'air niveau 1,vesoul,3.0965092402464065,1.0,tce
+12799,essence,manuelle,noir,berline,particulier,non,68565.0,5.0,91.0,5,5,4.088,1.848,1.499,997.0,328.0,crit'air niveau 1,salon-de-provence,3.2197125256673513,1.0,tce
+17977,gpl,manuelle,noir,suv,particulier,non,26905.0,5.0,101.0,5,5,4.341,1.804,,1230.0,478.0,crit'air niveau 1,vénissieux,2.625598904859685,1.0,eco-g
+17299,diesel,automatique,noir,berline,société,non,85961.0,5.0,110.0,5,5,4.255,1.799,1.452,1189.0,380.0,crit'air niveau 2,rezé,8.706365503080082,1.6,tdi
+12579,essence,manuelle,blanc,berline,loueur,oui,20400.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,reims,2.3956194387405887,1.2,puretech
+23978,essence micro hybride,manuelle,bi-ton,suv,loueur,non,44629.0,7.0,131.0,5,5,4.51,1.825,,1421.0,575.0,,vienne,2.3408624229979464,1.2,tce
+18999,essence bioéthanol,manuelle,gris,suv,particulier,non,49248.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,cambrai,3.7399041752224504,1.0,flexifuel
+15900,electrique,automatique,bleu,berline,particulier,non,44613.0,4.0,109.0,5,5,4.087,1.787,1.562,1427.0,338.0,crit'air niveau 0,valence,3.4195756331279945,e-tech,evolution
+18999,essence micro hybride,automatique,gris,suv,loueur,non,31139.0,7.0,140.0,5,5,4.568,1.821,1.571,1261.0,513.0,,saint-alban-leysse,2.751540041067762,1.3,tce
+50999,hybride rechargeable,automatique,gris,break,loueur,oui,10332.0,11.0,204.0,5,5,4.793,1.82,1.454,2065.0,315.0,crit'air niveau 1,vert-saint-denis,0.8432580424366872,300,e
+24799,hybride,automatique,bleu,suv,loueur,non,17249.0,5.0,94.0,5,5,4.568,1.821,1.571,1360.0,480.0,crit'air niveau 1,magenta,3.381245722108145,1.6,e-tech
+12490,essence,manuelle,blanc,berline,particulier,non,34060.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,dizy,2.3627652292950034,1.2,puretech
+15999,gpl,manuelle,blanc,suv,particulier,oui,44121.0,5.0,101.0,5,5,4.341,1.804,,1214.0,1478.0,crit'air niveau 1,maizières-la-grande-paroisse,3.468856947296372,1.0,eco-g
+14499,diesel,automatique,blanc,berline,société,non,101077.0,6.0,115.0,5,5,4.359,1.814,1.447,1465.0,384.0,crit'air niveau 2,rezé,5.278576317590692,1.5,blue
+13999,essence,manuelle,jaune,berline,société,non,20730.0,4.0,75.0,5,5,4.055,1.745,1.43,980.0,265.0,crit'air niveau 1,saint-cyr-sur-loire,2.379192334017796,1.2,puretech
+13499,gpl,manuelle,blanc,berline,loueur,non,88149.0,5.0,101.0,5,5,4.099,1.848,1.535,1154.0,328.0,crit'air niveau 1,metz,3.871321013004791,1.0,eco-g
+32999,essence micro hybride,automatique,gris,suv,loueur,non,46133.0,9.0,163.0,5,5,4.425,1.863,1.652,1613.0,452.0,,chennevières sur marne,1.538672142368241,b3,163ch
+26999,diesel,automatique,noir,break,loueur,non,21381.0,7.0,131.0,5,5,4.778,1.907,1.42,1513.0,530.0,crit'air niveau 2,charmeil,1.5331964407939767,bluehdi,130ch
+14999,gpl,manuelle,gris,berline,particulier,non,30703.0,5.0,101.0,5,5,4.099,1.848,1.535,1079.0,328.0,crit'air niveau 1,reims,3.4113620807665983,1.0,eco-g
+20578,essence micro hybride,automatique,noir,suv,société,non,26129.0,7.0,140.0,5,5,4.568,1.82,1.571,1261.0,513.0,,salaise sur sanne,2.0561259411362083,1.3,tce
+7560,essence,manuelle,bi-ton,berline,loueur,non,130865.0,4.0,82.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,charleville-mézières,6.04517453798768,puretech,82ch
+23499,hybride,automatique,gris,berline,particulier,non,1241.0,5.0,91.0,5,5,4.053,1.798,1.44,1163.0,301.0,crit'air niveau 1,pertuis,0.34770704996577684,1.6,e-tech
+26490,hybride rechargeable,automatique,noir,suv,société,non,25625.0,10.0,180.0,5,5,4.805,1.865,1.485,1722.0,485.0,crit'air niveau 1,charleville-mézières,2.5872689938398357,hybride,rechargeable
+29999,essence micro hybride,automatique,gris,suv,,oui,5.0,7.0,136.0,5,5,4.304,1.815,1.55,1297.0,434.0,,salon-de-provence,0.08487337440109514,1.2,hybrid
+34799,diesel,manuelle,noir,break,loueur,non,61758.0,8.0,150.0,5,8,5.48,1.956,1.974,2104.0,1800.0,crit'air niveau 2,hazebrouck,2.513347022587269,l2,2.0
+52900,electrique,automatique,gris,suv,,non,13459.0,7.0,190.0,5,7,4.687,1.834,1.612,2030.0,495.0,crit'air niveau 0,saint-memmie,0.919917864476386,250+,190ch
+75900,hybride rechargeable,automatique,noir,4x4 tout terrain,société,oui,10000.0,11.0,269.0,5,5,4.597,2.069,1.727,2093.0,1179.0,crit'air niveau 1,paris,0.10130047912388775,p270e,phev
+36990,hybride,automatique,bi-ton,suv,,non,8000.0,5.0,98.0,5,5,4.362,1.832,1.564,1430.0,388.0,crit'air niveau 1,dagneux,0.4407939767282683,1.8,hybride
+10780,essence,manuelle,gris,berline,particulier,non,45136.0,4.0,75.0,5,5,4.055,1.765,1.43,980.0,265.0,crit'air niveau 1,seynod,4.427104722792608,1.2,puretech
+12799,diesel,manuelle,gris,suv,particulier,non,89524.0,5.0,90.0,5,5,4.121,1.778,1.573,1248.0,455.0,crit'air niveau 2,mexy,6.362765229295003,1.5,dci
+35299,hybride rechargeable,automatique,rouge,suv,,non,10.0,5.0,98.0,5,5,4.545,1.805,1.68,1900.0,626.0,crit'air niveau 1,saint-victoret,0.8815879534565366,2.4,mivec
+20799,essence,automatique,noir,suv,particulier,non,78818.0,10.0,181.0,5,5,4.57,1.895,1.625,1425.0,555.0,crit'air niveau 1,poitiers,6.579055441478439,puretech,180ch
+12215,essence,manuelle,gris,suv,loueur,non,125414.0,5.0,102.0,5,5,4.3,1.77,1.55,1192.0,405.0,crit'air niveau 1,chambéry,3.512662559890486,1.2,puretech
+27990,electrique,automatique,bi-ton,berline,,oui,6000.0,5.0,204.0,5,5,4.287,1.836,1.516,1675.0,350.0,crit'air niveau 0,pontarlier,0.813141683778234,ev,204ch
+28987,diesel,automatique,bleu,suv,importation,non,27577.0,7.0,131.0,5,7,4.641,1.906,1.646,1536.0,780.0,crit'air niveau 2,arnas,1.4373716632443532,1.5,bluehdi
+11999,electrique,automatique,gris,berline,loueur,non,61628.0,6.0,150.0,5,5,4.49,1.788,1.53,1565.0,435.0,crit'air niveau 0,reims,3.8329911019849416,150ch,40kwh
+22499,essence,manuelle,gris,berline,particulier,non,1832.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,troyes,0.6187542778918549,1.0,tce
+18299,essence,manuelle,gris,berline,particulier,non,15158.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,dunkerque,0.6954140999315537,1.0,tce
+17999,essence micro hybride,automatique,orange,suv,particulier,non,26432.0,7.0,140.0,5,5,4.227,1.797,1.576,1267.0,536.0,,loison-sous-lens,4.511978097193703,1.3,tce
+8890,electrique,automatique,bleu,suv,particulier,non,36857.0,2.0,45.0,5,4,3.734,1.579,1.513,970.0,290.0,crit'air niveau 0,davezieux,4.101300479123887,45ch,confort
+37990,hybride,automatique,blanc,suv,,oui,8000.0,5.0,98.0,5,5,4.362,1.832,1.564,1430.0,388.0,crit'air niveau 1,asnières-sur-seine,0.1806981519507187,1.8,hybride
+15288,diesel,manuelle,gris,berline,,non,39548.0,5.0,102.0,5,5,4.055,1.745,1.43,1090.0,265.0,crit'air niveau 2,bourgoin-jallieu,2.113620807665982,1.5,bluehdi
+40000,diesel,manuelle,blanc,utilitaire,,non,15000.0,7.0,150.0,4,3,5.932,2.175,2.638,2181.0,,crit'air niveau 2,compiègne,0.8459958932238193,315,cdi
+36280,electrique,automatique,blanc,suv,particulier,oui,23700.0,7.0,210.0,5,5,4.542,1.895,1.641,2108.0,520.0,crit'air niveau 0,reims,1.4182067077344285,electrique,210ch
+13825,diesel,manuelle,noir,berline,loueur,non,60271.0,5.0,102.0,5,5,3.996,1.749,1.474,1090.0,300.0,crit'air niveau 2,grenoble,3.430527036276523,1.5,bluehdi
+16499,essence micro hybride,manuelle,gris,suv,particulier,non,37408.0,6.0,125.0,5,5,4.186,1.805,1.537,1205.0,456.0,,vitrolles,4.7967145790554415,1.0,ecoboost
+15799,essence,manuelle,gris,berline,,non,22368.0,5.0,91.0,5,5,4.053,1.798,1.44,1028.0,391.0,crit'air niveau 1,saint-alban-leysse,2.209445585215606,1.0,tce
+30999,electrique,automatique,noir,suv,loueur,non,23667.0,5.0,272.0,5,5,4.233,1.837,1.549,1785.0,318.0,crit'air niveau 0,chennevières sur marne,1.678302532511978,single,extended
+17499,essence,manuelle,,berline,société,non,9418.0,5.0,91.0,5,5,4.053,1.798,1.44,1007.0,391.0,crit'air niveau 1,saint-victoret,0.9034907597535934,1.0,tce
+27517,hybride rechargeable,automatique,gris,break,loueur,non,28999.0,8.0,150.0,5,5,4.636,1.86,1.442,1659.0,548.0,crit'air niveau 1,seynod,1.5989048596851472,phev,180ch
+27987,hybride,automatique,rouge,break,importation,non,43703.0,5.0,98.0,5,5,4.65,1.79,1.435,1290.0,598.0,crit'air niveau 1,arnas,2.2861054072553046,1.8,140ch
+29980,diesel,automatique,noir,suv,loueur,non,18708.0,7.0,131.0,5,5,4.5,1.969,1.689,1492.0,720.0,crit'air niveau 2,eybens,1.2566735112936345,1.5,bluehdi
+14981,diesel,manuelle,noir,berline,loueur,non,45059.0,5.0,102.0,5,5,4.055,1.745,1.43,1090.0,265.0,crit'air niveau 2,grenoble,2.1683778234086244,1.5,bluehdi
+37199,hybride rechargeable,automatique,noir,berline,loueur,non,28586.0,8.0,150.0,5,5,4.343,1.816,1.449,1560.0,280.0,crit'air niveau 1,champniers,1.2292950034223136,40,tfsi
+14799,essence,manuelle,,berline,particulier,non,53791.0,7.0,140.0,5,5,4.359,1.814,1.447,,434.0,crit'air niveau 1,terville,6.844626967830253,1.3,tce
+25699,hybride rechargeable,automatique,gris,suv,particulier,non,38996.0,9.0,200.0,5,5,4.447,1.841,1.624,1853.0,,crit'air niveau 1,bassussarry,3.8329911019849416,hybrid4,300ch
+26980,hybride rechargeable,automatique,blanc,berline,loueur,non,42634.0,10.0,180.0,5,5,4.4,1.866,1.49,1653.0,390.0,crit'air niveau 1,bourg en bresse,2.3956194387405887,e-tense,225ch
+15999,diesel,manuelle,nr,suv,particulier,non,91584.0,6.0,116.0,5,5,4.227,1.797,1.576,1303.0,520.0,crit'air niveau 2,sequedin,5.300479123887748,1.5,blue
+19899,electrique,automatique,noir,berline,particulier,oui,29682.0,5.0,184.0,3,4,3.85,1.727,1.432,1365.0,211.0,crit'air niveau 0,seclin,3.1074606433949348,cooper,se
+27499,essence,automatique,vert,suv,loueur,non,4605.0,8.0,150.0,5,5,4.266,1.757,1.518,1229.0,438.0,crit'air niveau 1,saint-martin-sur-le-pré,0.8350444900752909,1.5,tsi
+25500,diesel,automatique,noir,berline,importation,non,88175.0,10.0,190.0,4,5,4.738,1.842,1.428,1490.0,480.0,crit'air niveau 2,vienne,5.297741273100616,40,tdi
+22390,essence micro hybride,automatique,jaune,suv,,non,6000.0,5.0,101.0,5,5,3.999,1.763,1.585,1272.0,412.0,,la ravoire,0.15331964407939766,1.2,hybrid
+13980,electrique,automatique,bleu,suv,loueur,non,99508.0,4.0,136.0,5,5,4.3,1.77,1.55,1548.0,405.0,crit'air niveau 0,bourg-en-bresse,4.167008898015058,e-2008,136ch
+22499,essence,automatique,noir,suv,particulier,non,45000.0,7.0,131.0,5,5,4.447,1.841,1.624,1320.0,520.0,crit'air niveau 1,chambray-lès-tours,4.301163586584531,1.2,puretech
+15299,essence,manuelle,gris,berline,loueur,non,19910.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,pau,1.4182067077344285,1.2,puretech
+42990,diesel,manuelle,blanc,utilitaire,société,oui,24018.0,7.0,163.0,4,2,5.37,1.928,1.912,1998.0,,crit'air niveau 2,thillois,0.4654346338124572,116,cdi
+16999,essence,manuelle,gris,suv,particulier,non,49590.0,6.0,110.0,5,5,4.241,1.793,1.559,1162.0,400.0,crit'air niveau 1,vénissieux,4.084873374401095,1.0,tsi
+27999,diesel,automatique,noir,monospace,loueur,non,81636.0,10.0,189.0,5,5,4.857,1.888,1.677,1785.0,680.0,crit'air niveau 2,magenta,3.8412046543463383,2.0,blue
+10499,essence,manuelle,rouge,suv,particulier,non,69758.0,5.0,110.0,5,5,4.159,1.829,1.556,1090.0,350.0,crit'air niveau 1,saint-cyr-sur-loire,7.170431211498974,1.2,puretech
+13999,diesel,manuelle,bleu,berline,particulier,non,99500.0,5.0,116.0,3,4,3.821,1.727,1.414,1135.0,211.0,crit'air niveau 2,wormhout,9.352498288843258,cooper,d
+32999,diesel,automatique,gris,berline,particulier,non,46961.0,8.0,150.0,4,5,4.688,1.83,1.444,1485.0,450.0,crit'air niveau 2,saint-maximin,4.188911704312115,200,d
+31989,hybride,automatique,bleu,suv,société,non,2280.0,6.0,109.0,5,5,4.57,1.812,1.662,1419.0,546.0,crit'air niveau 1,pontarlier,0.2929500342231348,1.8,hybrid
+18799,diesel,automatique,,break,particulier,non,101667.0,7.0,131.0,5,5,4.636,1.852,1.442,1400.0,608.0,crit'air niveau 2,beauvais,3.3374401095140316,1.5,bluehdi
+16799,hybride,automatique,gris,berline,loueur,non,60695.0,5.0,90.0,5,5,4.05,1.798,1.44,1163.0,300.0,crit'air niveau 1,carvin,3.134839151266256,1.6,e-tech
+19790,diesel,manuelle,noir,,loueur,non,98372.0,6.0,115.0,5,5,4.341,1.804,,1400.0,,crit'air niveau 2,pontarlier,4.295687885010267,blue,dci
+27999,diesel,automatique,blanc,berline,,non,43332.0,6.0,116.0,5,5,4.319,1.799,1.434,1385.0,380.0,crit'air niveau 2,mérignac,2.839151266255989,116da,116ch
+59999,hybride rechargeable,automatique,blanc,suv,loueur,non,44591.0,19.0,404.0,5,5,4.747,2.071,1.664,2155.0,617.0,crit'air niveau 1,terville,2.0752908966461328,p400e,plug-in-hybrid
+26499,essence,manuelle,gris,suv,particulier,non,30700.0,7.0,130.0,5,0,4.511,1.839,1.675,1437.0,977.0,crit'air niveau 1,rezé,3.8576317590691307,1.5,tsi
+17280,hybride rechargeable,automatique,bleu,suv,particulier,non,63654.0,5.0,92.0,5,5,4.227,1.797,1.576,1564.0,379.0,crit'air niveau 1,besancon,4.514715947980835,1.6,e-tech
+125656,hybride rechargeable,automatique,gris,suv,,non,9000.0,20.0,313.0,5,5,4.935,2.004,1.765,2420.0,500.0,crit'air niveau 1,nimes,0.35044490075290896,xdrive50e,489ch
+11999,electrique,automatique,blanc,utilitaire,loueur,non,30717.0,4.0,109.0,5,2,4.084,1.73,1.562,1502.0,,crit'air niveau 0,arras,4.588637919233402,kit,2
+13999,essence,manuelle,gris,berline,société,non,25169.0,5.0,92.0,5,5,3.999,1.743,1.455,1060.0,300.0,crit'air niveau 1,rezé,3.890485968514716,1.0,ig-t
+43699,electrique,automatique,blanc,suv,particulier,non,4905.0,9.0,307.0,5,5,4.79,,1.624,1901.0,822.0,crit'air niveau 0,vénissieux,0.7008898015058179,long,range
+16380,essence,manuelle,jaune,berline,loueur,non,23160.0,5.0,102.0,5,5,4.055,1.765,1.43,1090.0,352.0,crit'air niveau 1,grenoble,1.1690622861054072,1.2,puretech
+9990,essence,manuelle,rouge,berline,loueur,non,32919.0,4.0,83.0,5,5,3.996,1.749,1.474,980.0,300.0,crit'air niveau 1,chambéry,3.8357289527720737,1.2,puretech

@@ -1,2 +1,10 @@
 car_price_predictor/dataset.csv
 car_price_predictor/scrapped/autosphere_data.json
+
+__pycache__/
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers cache Python
+*.pyc
