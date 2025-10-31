@@ -8,3 +8,5 @@ __pycache__/
 
 # Fichiers cache Python
 *.pyc
+
+car_price_predictor/autosphere_data.json
