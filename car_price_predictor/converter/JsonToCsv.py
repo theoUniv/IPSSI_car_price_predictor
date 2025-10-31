@@ -145,7 +145,7 @@ json_files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
 print(f"Début du traitement de {len(json_files)} fichiers JSON...")
 
 for i, json_file in enumerate(json_files):
-    if(i<10000000): # Maintien de votre limite
+    if(i<10000000): 
         df_cleaned = clean_and_normalize_data(os.path.join(json_dir, json_file))
         if df_cleaned is not None:
             all_data.append(df_cleaned)

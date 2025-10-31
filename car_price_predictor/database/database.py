@@ -8,7 +8,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '', # Remplacez par votre mot de passe
+    'password': '', 
     'database': 'projet_scraping_cars'
 }
 
@@ -34,7 +34,7 @@ def calculer_age(date_str):
         return None
     try:
         date_mise_en_circ = datetime.datetime.strptime(date_str, "%d/%m/%Y").date()
-        # On utilise la date de fin du projet (votre deadline)
+        # On utilise la date de fin du projet
         today = datetime.date(2025, 10, 31) 
         
         age = today.year - date_mise_en_circ.year - ((today.month, today.day) < (date_mise_en_circ.month, date_mise_en_circ.day))
@@ -326,6 +326,3 @@ def run_database_pipeline():
         if conn and conn.is_connected():
             conn.close()
             print("Connexion MySQL fermée.")
-
-# NOTE: Le bloc 'if __name__ == "__main__":' a été retiré.
-# Ce fichier est maintenant une bibliothèque.

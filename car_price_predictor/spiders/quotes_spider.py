@@ -49,7 +49,6 @@ class AutosphereSpider(scrapy.Spider):
             f.write("[\n")
         self.first_item = True
         
-        # 2. Le système de compteur
         self.page_counters = {} 
         self.current_page_index = 0 # Commencera à l'index 0 (from=0)
 

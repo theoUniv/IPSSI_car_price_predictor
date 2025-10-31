@@ -2,16 +2,13 @@ import subprocess
 import sys
 import os
 
-# Importer la fonction que nous venons de créer dans database.py
 try:
     from database import database
 except ImportError:
     print("❌ ERREUR: Le fichier 'database.py' est introuvable.")
-    print("Assurez-vous qu'il se trouve dans le même répertoire que app.py")
     sys.exit(1)
 
-# --- Configuration des chemins vers vos scripts ---
-# (Adaptez si nécessaire)
+# --- Configuration des chemins vers les scripts ---
 CONVERTER_SCRIPT = os.path.join("converter", "JsonToCsv.py")
 MODEL_SCRIPT = os.path.join("models", "model.py")
 
@@ -38,7 +35,6 @@ def run_external_script(script_path):
             encoding='utf-8' # Forcer l'encodage
         )
         
-        # Afficher la sortie standard du script
         if result.stdout:
             print(result.stdout)
             
@@ -49,9 +45,8 @@ def run_external_script(script_path):
         print(f"❌ ERREUR: Script introuvable à '{script_path}'")
         return False
     except subprocess.CalledProcessError as e:
-        # Si le script lui-même lève une exception
         print(f"❌ ERREUR lors de l'exécution de '{script_path}':")
-        print(e.stderr) # Afficher l'erreur du script
+        print(e.stderr) 
         return False
     except Exception as e:
         print(f"❌ ERREUR inattendue avec '{script_path}': {e}")
@@ -72,7 +67,6 @@ def main_pipeline():
     # ÉTAPE 2: Chargement du JSON dans la BDD MySQL
     print("\n[ÉTAPE 2/3] Chargement des données JSON dans MySQL...")
     try:
-        # Appel direct de la fonction importée
         database.run_database_pipeline()
         print("--- Étape 2 terminée avec succès ---")
     except Exception as e:

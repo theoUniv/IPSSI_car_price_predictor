@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error
 from math import sqrt
 import json
 
-# Lecture de notre dataset
+# Lecture du dataset
 try:
     df = pd.read_csv('database/dataset.csv')
 except FileNotFoundError:
@@ -21,7 +21,7 @@ print(f"Nombre de lignes prises en compte : {len(df)}")
 X = df.drop('prix_ttc_eur', axis=1)
 y = df['prix_ttc_eur']
 
-# On split notre dataset (train/test).
+# On split le dataset (train/test).
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # --- MISE À JOUR DE LA SÉLECTION DES COLONNES ---
@@ -87,7 +87,6 @@ try:
     # 1. Imputation Robuste: Gérer les colonnes manquantes dans car_config.json
     for col in X_train.columns:
         if col not in car_df.columns:
-            # Correction: Remplacer par la médiane d'entraînement si c'est numérique
             if col in num_cols:
                  # La médiane est un float, ce qui résout l'erreur de conversion.
                  car_df[col] = X_train[col].median()
